@@ -1,17 +1,13 @@
 # 🌸 Hello, I’m NaomiExtellna
 
-### IT Developer & Customer Service Specialist at **VRC Kmart** | Python Developer | Avatar & World Builder | Technology Enthusiast
+### IT Developer | Python Developer | Avatar & World Builder | Technology Enthusiast
 
-I am a dedicated and detail-oriented IT Developer and Customer Service Specialist at **VRC Kmart**, with a strong focus on Python programming and creating reliable backend solutions. I am passionate about building immersive virtual worlds and developing engaging roleplay systems, all while ensuring excellent support and positive interactions within the community.
+I am a dedicated and detail-oriented IT Developer, with a strong focus on Python programming and creating reliable backend solutions. I am passionate about building immersive virtual worlds and developing engaging roleplay systems, all while ensuring excellent support and positive interactions within the community.
 
 ---
 
 ## 💼 Professional Experience
 
-- **IT Developer @ VRC Kmart**  
-  Responsible for designing, developing, and maintaining backend infrastructure using Python. I specialize in automation, API integrations, and scalable solutions that enhance operational efficiency. My work ensures the smooth functioning of our digital services and tools, supporting both internal teams and the broader user community.  
-- **Customer Service Specialist @ VRC Kmart**  
-  Delivering empathetic and effective support, I help resolve user inquiries and technical issues with patience and clarity, contributing to a welcoming and professional community environment.  
 - **Python Developer**  
   Crafting clean, maintainable Python code for automation, bots, and data processing, with an emphasis on robust design and scalability.  
 - **Avatar & World Builder**  
