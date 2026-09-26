@@ -33,7 +33,7 @@ I am a dedicated and detail-oriented IT Developer, with a strong focus on Python
 
 ## 👩‍💻 About Me
 
-- **Age:** 28  
+- **Age:** 29  
 - **Pronouns:** She/Her  
 - **Identity:** Transgender woman (MTF)  
 - **Interests:** Software development, virtual world creation, storytelling, hardware modding, community building, and continuous personal and professional growth.  
